@@ -2,7 +2,7 @@
 
 **Voyager** is a travel-focused web application developed under the theme *"Tourist and Travelling"* to enhance the experience of global travelers. It offers essential utilities such as real-time **currency conversion** and **language translation**, helping users overcome common travel barriers.
 
-## ✨ Features
+## Features
 
 - **Currency Converter**
   - Convert between major world currencies instantly.
