@@ -62,7 +62,7 @@ Since this is a frontend project:
 
 If API keys are required:
 
-* Open your JavaScript file (for example `script.js`)
+* Open the JavaScript file (for example `script.js`)
 * Replace placeholder keys with actual API keys
 
 ```javascript
@@ -83,6 +83,3 @@ const API_KEY = "your_api_key_here";
 ---
 
 Built as a travel utility project to simplify real-world cross-language and currency challenges.
-
-```
-
