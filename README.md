@@ -86,7 +86,3 @@ Built as a travel utility project to simplify real-world cross-language and curr
 
 ```
 
----
-
-If you want next step, I can also help you make this README look **highly professional (like startup-level GitHub projects)** with badges, deployment link, and better structure.
-```
