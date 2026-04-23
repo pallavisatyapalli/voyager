@@ -79,7 +79,3 @@ const API_KEY = "your_api_key_here";
 * Offline support for basic features
 * Currency trend visualization
 * UI/UX improvements for better usability
-
----
-
-Built as a travel utility project to simplify real-world cross-language and currency challenges.
